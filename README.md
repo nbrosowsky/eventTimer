@@ -1,4 +1,4 @@
-# eventTimer
+# eventTimer.js
 
 A drop-in replacement for setTimeout and setInterval that makes use of requestAnimationFrame. 
 
