@@ -66,7 +66,7 @@ eventTimer.setMultipleInt([
 ```
 
 
-Setting multiple events returns an array of ids, that can be used to cancel all the requests
+Setting multiple events returns an array of ids that can be used to cancel all the requests
 
 
 ```javascript
